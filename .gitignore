@@ -1,0 +1,10 @@
+.venv/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# Raw dataset
+data/raw/
+
+# Generated processed datasets
+data/processed/*.csv
