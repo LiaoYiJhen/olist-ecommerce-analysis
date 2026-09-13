@@ -228,6 +228,7 @@ olist-ecommerce-analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ## How to Reproduce
 
