@@ -210,7 +210,8 @@ olist-ecommerce-analysis/
 │   ├── 02_data_cleaning.ipynb
 │   ├── 03_sales_analysis.ipynb
 │   ├── 04_customer_analysis.ipynb
-│   └── 05_delivery_analysis.ipynb
+│   ├── 05_delivery_analysis.ipynb
+│   └── 06_dashboard_data.ipynb
 │
 ├── sql/
 │   ├── create_tables.sql
