@@ -228,3 +228,23 @@ olist-ecommerce-analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+## How to Reproduce
+
+1. Download the Brazilian E-Commerce Public Dataset by Olist and place the original CSV files in `data/raw/`.
+
+2. Create and activate a Python virtual environment.
+
+3. Install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the notebooks sequentially from `01_data_understanding.ipynb` through `06_dashboard_data.ipynb`.
+
+5. Use `sql/create_tables.sql` to create the PostgreSQL database schema and import the processed datasets.
+
+6. Run the business analysis queries in `sql/analysis_queries.sql`.
+
+7. Open `dashboard/olist_dashboard.pbix` in Power BI Desktop to explore the final dashboard.
