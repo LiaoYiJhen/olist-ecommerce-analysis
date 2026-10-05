@@ -55,4 +55,4 @@
 
 ## 使用工具
 
-`Python` `Pandas` `NumPy` `PostgreSQL` `SQL` `Power BI` `DAX` `Jupyter Notebook`
+`Python` `Pandas` `PostgreSQL` `SQL` `Power BI` `DAX` `Jupyter Notebook`
